@@ -1,4 +1,7 @@
-// Este es un comentario
+/*
+	Archivo Hello.c que usamos para nuestro ejercicio
+	ejercicio de git basico
+*/
 
 #include <stdio.h>
 
