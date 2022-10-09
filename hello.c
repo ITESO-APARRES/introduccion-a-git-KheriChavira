@@ -1,3 +1,5 @@
+// Este es un comentario
+
 #include <stdio.h>
 
 int main(void) {
